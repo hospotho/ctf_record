@@ -1,0 +1,3893 @@
+{
+  "project": {
+    "classname": "Project",
+    "identifier": null,
+    "name": "AA",
+    "uuid": "acd01b02-1967-4563-af6f-b84ee76837bc",
+    "children": [
+      "1da71ce2-6a49-4888-a046-2793ae0319f1",
+      "282e1229-b566-4faf-99f7-b7fbafa8d185",
+      "baf7e4f2-e87c-4f79-a42c-ab558d3e8877",
+      "e9fc1d97-b163-4408-9ce5-8e93bdb5a6d4",
+      "de1fdfb3-32dd-4992-872d-25bfb85f4aff",
+      "b981c6fb-9251-4905-88ad-989390e72f2b",
+      "09e903a0-0e3f-4959-b2dc-1985a4978be3",
+      "35155d83-1763-4bd2-a803-3061294b7b39",
+      "c2c19fad-ab0b-4ee1-810b-2ccd8ee5d0b0",
+      "34343d38-03bc-4234-8846-72e2bdfa299b",
+      "150b3964-b751-47b5-8de8-c9aa5fb18d9f",
+      "f767d7d4-dcd7-465b-9294-54d8180f7fe4",
+      "8a817e8e-9c9c-40f6-a490-91066be9551a",
+      "70c76619-915b-41b9-87c2-900bb44dc2b3",
+      "f8c0f629-5c88-4c56-9c6b-8572b360ec2b",
+      "c337b2e6-a462-4585-ba4b-b1e9522ea1f2",
+      "df3c3058-2d2a-4865-a40d-93bb2874994f",
+      "d3c238a3-508c-4102-9623-797c26ef8a8e",
+      "5ba106b8-672f-4896-9579-38bde704d427",
+      "8e4d6683-27bd-4808-88b8-373575cfd57a",
+      "af8eaaba-965f-41aa-b1bd-5347c45278ff",
+      "115f7863-20f7-4c7f-9ac6-d3a71aaba537",
+      "b5aed93e-0ecf-4e02-b3f7-12e3a084ff0c",
+      "d1c91b24-f463-4c2c-965e-ed4b7306f251",
+      "01e66b40-a1b1-4fb0-bb20-57a22840d4e9",
+      "edda1a71-5e96-489a-9908-baa2f31ac4c7",
+      "e02d9204-83b9-48d5-a543-ad3dfda85a4d"
+    ],
+    "width": 1280,
+    "height": 720,
+    "backgroundColor": "rgb(255,255,255)",
+    "framerate": 12,
+    "onionSkinEnabled": false,
+    "onionSkinSeekForwards": 1,
+    "onionSkinSeekBackwards": 1,
+    "focus": "282e1229-b566-4faf-99f7-b7fbafa8d185",
+    "metadata": {
+      "wickengine": "2020.12.11.15.25.29",
+      "lastModified": 1666515089639,
+      "platform": {
+        "name": "Electron",
+        "version": "7.3.3",
+        "product": null,
+        "manufacturer": null,
+        "layout": "Blink",
+        "os": {
+          "architecture": 64,
+          "family": "Windows",
+          "version": "10"
+        },
+        "description": "Electron 7.3.3 (Chromium 78.0.3904.130) on Windows 10 64-bit"
+      }
+    }
+  },
+  "objects": {
+    "1da71ce2-6a49-4888-a046-2793ae0319f1": {
+      "classname": "Selection",
+      "identifier": null,
+      "name": null,
+      "uuid": "1da71ce2-6a49-4888-a046-2793ae0319f1",
+      "children": [],
+      "selectedObjects": [],
+      "widgetRotation": 0,
+      "pivotPoint": {
+        "x": 946,
+        "y": 89.6
+      },
+      "originalWidth": 392,
+      "originalHeight": 19.200000000000003
+    },
+    "282e1229-b566-4faf-99f7-b7fbafa8d185": {
+      "classname": "Clip",
+      "identifier": "Project",
+      "name": null,
+      "uuid": "282e1229-b566-4faf-99f7-b7fbafa8d185",
+      "children": [
+        "ac752a47-d8ea-4673-850f-7997f89e845b"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 0,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "baf7e4f2-e87c-4f79-a42c-ab558d3e8877": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out30.png",
+      "uuid": "baf7e4f2-e87c-4f79-a42c-ab558d3e8877",
+      "children": [],
+      "filename": "out30.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "e9fc1d97-b163-4408-9ce5-8e93bdb5a6d4": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out31.png",
+      "uuid": "e9fc1d97-b163-4408-9ce5-8e93bdb5a6d4",
+      "children": [],
+      "filename": "out31.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "de1fdfb3-32dd-4992-872d-25bfb85f4aff": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out32.png",
+      "uuid": "de1fdfb3-32dd-4992-872d-25bfb85f4aff",
+      "children": [],
+      "filename": "out32.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "b981c6fb-9251-4905-88ad-989390e72f2b": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out34.png",
+      "uuid": "b981c6fb-9251-4905-88ad-989390e72f2b",
+      "children": [],
+      "filename": "out34.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "09e903a0-0e3f-4959-b2dc-1985a4978be3": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out35.png",
+      "uuid": "09e903a0-0e3f-4959-b2dc-1985a4978be3",
+      "children": [],
+      "filename": "out35.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "35155d83-1763-4bd2-a803-3061294b7b39": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out36.png",
+      "uuid": "35155d83-1763-4bd2-a803-3061294b7b39",
+      "children": [],
+      "filename": "out36.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "c2c19fad-ab0b-4ee1-810b-2ccd8ee5d0b0": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out29.png",
+      "uuid": "c2c19fad-ab0b-4ee1-810b-2ccd8ee5d0b0",
+      "children": [],
+      "filename": "out29.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "34343d38-03bc-4234-8846-72e2bdfa299b": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out33.png",
+      "uuid": "34343d38-03bc-4234-8846-72e2bdfa299b",
+      "children": [],
+      "filename": "out33.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "150b3964-b751-47b5-8de8-c9aa5fb18d9f": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out48.png",
+      "uuid": "150b3964-b751-47b5-8de8-c9aa5fb18d9f",
+      "children": [],
+      "filename": "out48.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "f767d7d4-dcd7-465b-9294-54d8180f7fe4": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out37.png",
+      "uuid": "f767d7d4-dcd7-465b-9294-54d8180f7fe4",
+      "children": [],
+      "filename": "out37.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "8a817e8e-9c9c-40f6-a490-91066be9551a": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out38.png",
+      "uuid": "8a817e8e-9c9c-40f6-a490-91066be9551a",
+      "children": [],
+      "filename": "out38.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "70c76619-915b-41b9-87c2-900bb44dc2b3": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out39.png",
+      "uuid": "70c76619-915b-41b9-87c2-900bb44dc2b3",
+      "children": [],
+      "filename": "out39.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "f8c0f629-5c88-4c56-9c6b-8572b360ec2b": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out40.png",
+      "uuid": "f8c0f629-5c88-4c56-9c6b-8572b360ec2b",
+      "children": [],
+      "filename": "out40.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "c337b2e6-a462-4585-ba4b-b1e9522ea1f2": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out41.png",
+      "uuid": "c337b2e6-a462-4585-ba4b-b1e9522ea1f2",
+      "children": [],
+      "filename": "out41.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "df3c3058-2d2a-4865-a40d-93bb2874994f": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out42.png",
+      "uuid": "df3c3058-2d2a-4865-a40d-93bb2874994f",
+      "children": [],
+      "filename": "out42.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "d3c238a3-508c-4102-9623-797c26ef8a8e": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out43.png",
+      "uuid": "d3c238a3-508c-4102-9623-797c26ef8a8e",
+      "children": [],
+      "filename": "out43.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "5ba106b8-672f-4896-9579-38bde704d427": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out44.png",
+      "uuid": "5ba106b8-672f-4896-9579-38bde704d427",
+      "children": [],
+      "filename": "out44.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "8e4d6683-27bd-4808-88b8-373575cfd57a": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out45.png",
+      "uuid": "8e4d6683-27bd-4808-88b8-373575cfd57a",
+      "children": [],
+      "filename": "out45.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "af8eaaba-965f-41aa-b1bd-5347c45278ff": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out46.png",
+      "uuid": "af8eaaba-965f-41aa-b1bd-5347c45278ff",
+      "children": [],
+      "filename": "out46.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "115f7863-20f7-4c7f-9ac6-d3a71aaba537": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out47.png",
+      "uuid": "115f7863-20f7-4c7f-9ac6-d3a71aaba537",
+      "children": [],
+      "filename": "out47.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "b5aed93e-0ecf-4e02-b3f7-12e3a084ff0c": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "out49.png",
+      "uuid": "b5aed93e-0ecf-4e02-b3f7-12e3a084ff0c",
+      "children": [],
+      "filename": "out49.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "d1c91b24-f463-4c2c-965e-ed4b7306f251": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "to-be-continued.png",
+      "uuid": "d1c91b24-f463-4c2c-965e-ed4b7306f251",
+      "children": [],
+      "filename": "to-be-continued.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "01e66b40-a1b1-4fb0-bb20-57a22840d4e9": {
+      "classname": "SoundAsset",
+      "identifier": null,
+      "name": "mudamuda.mp3",
+      "uuid": "01e66b40-a1b1-4fb0-bb20-57a22840d4e9",
+      "children": [],
+      "filename": "mudamuda.mp3",
+      "MIMEType": "audio/mp3",
+      "fileExtension": "mp3"
+    },
+    "edda1a71-5e96-489a-9908-baa2f31ac4c7": {
+      "classname": "SoundAsset",
+      "identifier": null,
+      "name": "tobecontinued_.mp3",
+      "uuid": "edda1a71-5e96-489a-9908-baa2f31ac4c7",
+      "children": [],
+      "filename": "tobecontinued_.mp3",
+      "MIMEType": "audio/mp3",
+      "fileExtension": "mp3"
+    },
+    "e02d9204-83b9-48d5-a543-ad3dfda85a4d": {
+      "classname": "ImageAsset",
+      "identifier": null,
+      "name": "quote.png",
+      "uuid": "e02d9204-83b9-48d5-a543-ad3dfda85a4d",
+      "children": [],
+      "filename": "quote.png",
+      "MIMEType": "image/png",
+      "fileExtension": "png",
+      "gifAssetUUID": null
+    },
+    "ac752a47-d8ea-4673-850f-7997f89e845b": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "ac752a47-d8ea-4673-850f-7997f89e845b",
+      "children": [
+        "92c480f7-f1dd-46a9-af0f-a58e5234ba15",
+        "01c0f41f-dc83-436a-8a33-d3a81d46fed0",
+        "f89c67a4-bfca-45a2-bc7a-73a8c279ac4b",
+        "2dc2f29c-fe9d-49d6-9844-f21349778393",
+        "2650cbd4-6eb0-4c13-80db-8501aa93ba22"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "92c480f7-f1dd-46a9-af0f-a58e5234ba15": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "AA",
+      "uuid": "92c480f7-f1dd-46a9-af0f-a58e5234ba15",
+      "children": [
+        "150ca63c-0073-47ff-9afc-f2d2ce9fff81",
+        "6d12d2bc-2a9f-4f1b-a104-fcbb12a4c234",
+        "04683838-df0e-483c-8481-19752955a26d",
+        "62927d6a-1b39-423b-b767-d5fcfa569831",
+        "57eff3f7-9fde-4824-b305-2b1c8061b206",
+        "d1b53f1b-9cfd-43fb-b98b-f519cda9c7ea"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "01c0f41f-dc83-436a-8a33-d3a81d46fed0": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "BB",
+      "uuid": "01c0f41f-dc83-436a-8a33-d3a81d46fed0",
+      "children": [
+        "3dca21ee-1857-48d2-bf23-970593d2bb59",
+        "2c6ce217-74af-40a5-b293-1eca4cb82d0d",
+        "24b78152-9286-41c7-b37c-daaf42a67101"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "f89c67a4-bfca-45a2-bc7a-73a8c279ac4b": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "CC",
+      "uuid": "f89c67a4-bfca-45a2-bc7a-73a8c279ac4b",
+      "children": [
+        "6d880a9f-5d00-470f-9d5c-9c1da6b4f5ae",
+        "fcbbbab3-ab4c-4a99-ada4-732c7534fb78",
+        "6c9d26a6-83c0-4c93-a100-74e0b32ea644",
+        "5cd4f664-4aea-42e2-bf38-666440111e46",
+        "87f56581-1366-4bf4-a7e9-935baef3688e",
+        "2b9b947e-b2f9-4846-991c-32280c61b28b",
+        "5405e5cf-8551-4379-8469-255475e7b0fe",
+        "df0ec594-40a1-454e-86b3-4fc6b75ddff2",
+        "177d6efd-5cf1-4e29-b583-4c77ca7e79f3",
+        "45d963c8-45ea-481b-b9ee-8ea02bc55658",
+        "c2c2fb2b-9c73-476a-a68d-b275eebb687b",
+        "937ad9e3-eb50-42bd-8d30-62284dc7b90b",
+        "f878315d-3dd0-4c57-935b-9a995f454a2a",
+        "dd4647d4-9cc1-46b3-8c59-32e17e02511e",
+        "69bb6443-464c-4d4e-8f15-dd799919b92c",
+        "8cbfd9b1-f2b7-4284-bdff-e721941d9792",
+        "e18b8120-9d7a-47df-80fd-e51278adb8ce",
+        "53b8814d-33a3-4071-bad4-fd99cba0d362",
+        "1711fcc9-43b4-4a78-a67c-aaa79729d69b",
+        "fe914114-e2b4-4a98-89fb-100e316bccf1",
+        "91efec0e-a004-44cf-992d-ad7334212897",
+        "7e10485e-636b-4c60-91ba-a3e37f3a1d2d",
+        "593fc602-a8cb-4e2c-8806-26e473a1a31b",
+        "4eeb75b2-9100-441a-a955-0ee6f6ddcd8a",
+        "ebf91c99-e78f-4438-82a5-73824dd6aec1",
+        "1649ea75-2665-4c55-950f-ca62e378f2fc"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "2dc2f29c-fe9d-49d6-9844-f21349778393": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "DD",
+      "uuid": "2dc2f29c-fe9d-49d6-9844-f21349778393",
+      "children": [
+        "910e4a31-b1dc-41a6-b465-361089b96212",
+        "cad1bdf0-0f35-4164-b1a3-ccf182ff19a8",
+        "0235c936-38c8-4355-8568-2b7daf9b419c"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "2650cbd4-6eb0-4c13-80db-8501aa93ba22": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "EE",
+      "uuid": "2650cbd4-6eb0-4c13-80db-8501aa93ba22",
+      "children": [
+        "67653da1-eb8b-4bf7-9693-7d2e836f8778",
+        "53e07f60-58ee-44f0-9da2-aabef6ed7226",
+        "10893282-5008-4ff1-82f4-e04962ff3010",
+        "a9f31bd1-dbfd-4a55-956b-6b8b1c0997ea",
+        "ba0b978f-5209-49a3-a7b9-1e666865fbfc",
+        "94b9fed1-0a11-4cb0-a0a2-890e2a948071"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "150ca63c-0073-47ff-9afc-f2d2ce9fff81": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "150ca63c-0073-47ff-9afc-f2d2ce9fff81",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 9,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "6d12d2bc-2a9f-4f1b-a104-fcbb12a4c234": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "6d12d2bc-2a9f-4f1b-a104-fcbb12a4c234",
+      "children": [
+        "b3e34767-76ed-48ed-9794-b59ba1a93d3e",
+        "dec73ff9-00f2-43ca-b106-9416d37ca1f2"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 10,
+      "end": 15,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "04683838-df0e-483c-8481-19752955a26d": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "04683838-df0e-483c-8481-19752955a26d",
+      "children": [
+        "80d9866d-ef84-4cd4-9b9a-d591b7591f64",
+        "40258fe7-cbdd-4708-9cd4-711fe46728a4"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 16,
+      "end": 24,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "62927d6a-1b39-423b-b767-d5fcfa569831": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "62927d6a-1b39-423b-b767-d5fcfa569831",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 25,
+      "end": 39,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "57eff3f7-9fde-4824-b305-2b1c8061b206": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "57eff3f7-9fde-4824-b305-2b1c8061b206",
+      "children": [
+        "db557459-405a-4d3d-a7b1-84b735933cd3",
+        "b4d36231-2b8e-42cc-b6c6-bb0f617a2f51"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 40,
+      "end": 45,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "d1b53f1b-9cfd-43fb-b98b-f519cda9c7ea": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "d1b53f1b-9cfd-43fb-b98b-f519cda9c7ea",
+      "children": [
+        "9bd8eac1-f6b6-4db5-b549-bf4a9780e0cd",
+        "bc751a38-2563-4510-af92-355ba54e1bf5",
+        "98a2440b-127c-4b9a-b3e5-e4ea488aeb22",
+        "69dff24e-464e-4b5b-952d-e2424611f05f",
+        "73204c7f-3983-41c4-8b4b-83dad6874f61",
+        "57d523de-69ea-4112-a8cd-ee879ed25c77",
+        "06d8c45e-ab45-4de7-a5a2-3bb7399d85d4",
+        "907a6182-79c3-461c-8de5-dc30fa3058b7",
+        "2b2952e5-e36a-43de-8e6a-282bc4032855",
+        "2e2febcc-0a88-4489-99a4-69261eb1ed30",
+        "a52b577f-9409-4131-9e1c-5bc2ff6fbbbb",
+        "0a926c86-4b33-4d63-a662-37cc7445d188",
+        "11902009-2ae2-4c2b-90b0-3af4417b6e78",
+        "b02807a1-78c1-42fd-a450-43f9638abafa",
+        "830e875f-7d00-4bd0-86b1-f1ad21ee0fdc",
+        "792b8661-52bf-40c8-b5cb-a85a30138a27",
+        "3c4356ff-ee95-4ace-9372-e625ae931113",
+        "6539247b-a6a3-4a7b-ad5d-37b9bca16d5f",
+        "d1796fc5-8c12-4766-8fb6-796a2d146802",
+        "e39b450d-8ff7-4f2f-9056-9aa1fd799787",
+        "6a3ffc9e-b606-4c89-b6b8-0997a371a1ad",
+        "af4ae023-5b29-48c5-b4e5-dae5861d8beb",
+        "6e9b93a9-ead3-4cc4-8f3a-c89833598f91",
+        "60384481-0131-437b-b72e-ef7c53d52bdb",
+        "b029534c-7500-4d83-a687-7918d9178ce2",
+        "71608404-eea3-420d-b34f-79530a42fc66",
+        "76970b5b-2444-4a97-bc9e-8fc4cbcf8acc",
+        "2c629556-9743-4588-adff-6f18d61430e3",
+        "67d45c5b-7d81-424e-be51-d6bf01196b2c",
+        "6ab73bec-080c-46e2-bd98-95e9c77506ff",
+        "4b2acd21-233d-463a-99ce-053d1122f41c",
+        "44e9d071-7058-47ee-8932-ef8d7eb58d88"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 46,
+      "end": 99,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "b3e34767-76ed-48ed-9794-b59ba1a93d3e": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "b3e34767-76ed-48ed-9794-b59ba1a93d3e",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            0.5,
+            0,
+            0,
+            0.5,
+            830,
+            110
+          ],
+          "crossOrigin": "",
+          "source": "asset:e02d9204-83b9-48d5-a543-ad3dfda85a4d"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "dec73ff9-00f2-43ca-b106-9416d37ca1f2": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "dec73ff9-00f2-43ca-b106-9416d37ca1f2",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            700,
+            102.4
+          ],
+          "content": "What is the flag?",
+          "strokeColor": [
+            1,
+            1,
+            0
+          ],
+          "fontWeight": "600 normal",
+          "fontSize": 36,
+          "leading": 43.2
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 600
+    },
+    "80d9866d-ef84-4cd4-9b9a-d591b7591f64": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "80d9866d-ef84-4cd4-9b9a-d591b7591f64",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            0,
+            -0.37501,
+            0.62501,
+            0,
+            200.0028,
+            261.48329
+          ],
+          "crossOrigin": "",
+          "source": "asset:e02d9204-83b9-48d5-a543-ad3dfda85a4d"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "40258fe7-cbdd-4708-9cd4-711fe46728a4": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "40258fe7-cbdd-4708-9cd4-711fe46728a4",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            70,
+            272.4
+          ],
+          "content": "I don't know!",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "600 normal",
+          "fontSize": 36,
+          "leading": 43.2
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 600
+    },
+    "db557459-405a-4d3d-a7b1-84b735933cd3": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "db557459-405a-4d3d-a7b1-84b735933cd3",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            0.5,
+            0,
+            0,
+            0.5,
+            830,
+            110
+          ],
+          "crossOrigin": "",
+          "source": "asset:e02d9204-83b9-48d5-a543-ad3dfda85a4d"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "b4d36231-2b8e-42cc-b6c6-bb0f617a2f51": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "b4d36231-2b8e-42cc-b6c6-bb0f617a2f51",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            102.4
+          ],
+          "content": "sudo What is the flag?",
+          "strokeColor": [
+            1,
+            1,
+            0
+          ],
+          "fontWeight": "600 normal",
+          "fontSize": 36,
+          "leading": 43.2
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 600
+    },
+    "9bd8eac1-f6b6-4db5-b549-bf4a9780e0cd": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "9bd8eac1-f6b6-4db5-b549-bf4a9780e0cd",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            0,
+            0.15001,
+            -1.17861,
+            0,
+            885.0108,
+            115.004
+          ],
+          "crossOrigin": "",
+          "source": "asset:e02d9204-83b9-48d5-a543-ad3dfda85a4d"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "bc751a38-2563-4510-af92-355ba54e1bf5": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "bc751a38-2563-4510-af92-355ba54e1bf5",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            720,
+            121.6
+          ],
+          "content": "h",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "98a2440b-127c-4b9a-b3e5-e4ea488aeb22": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "98a2440b-127c-4b9a-b3e5-e4ea488aeb22",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            735,
+            121.6
+          ],
+          "content": "k",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "69dff24e-464e-4b5b-952d-e2424611f05f": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "69dff24e-464e-4b5b-952d-e2424611f05f",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            750,
+            121.6
+          ],
+          "content": "c",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "73204c7f-3983-41c4-8b4b-83dad6874f61": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "73204c7f-3983-41c4-8b4b-83dad6874f61",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            765,
+            121.6
+          ],
+          "content": "e",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "57d523de-69ea-4112-a8cd-ee879ed25c77": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "57d523de-69ea-4112-a8cd-ee879ed25c77",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            780,
+            121.6
+          ],
+          "content": "r",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "06d8c45e-ab45-4de7-a5a2-3bb7399d85d4": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "06d8c45e-ab45-4de7-a5a2-3bb7399d85d4",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            795,
+            121.6
+          ],
+          "content": "t",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "907a6182-79c3-461c-8de5-dc30fa3058b7": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "907a6182-79c3-461c-8de5-dc30fa3058b7",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            810,
+            121.6
+          ],
+          "content": "2",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "2b2952e5-e36a-43de-8e6a-282bc4032855": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "2b2952e5-e36a-43de-8e6a-282bc4032855",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            825,
+            121.6
+          ],
+          "content": "2",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "2e2febcc-0a88-4489-99a4-69261eb1ed30": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "2e2febcc-0a88-4489-99a4-69261eb1ed30",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            840,
+            121.6
+          ],
+          "content": "{",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "a52b577f-9409-4131-9e1c-5bc2ff6fbbbb": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "a52b577f-9409-4131-9e1c-5bc2ff6fbbbb",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            855,
+            121.6
+          ],
+          "content": "l",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "0a926c86-4b33-4d63-a662-37cc7445d188": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "0a926c86-4b33-4d63-a662-37cc7445d188",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            870,
+            121.6
+          ],
+          "content": "_",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "11902009-2ae2-4c2b-90b0-3af4417b6e78": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "11902009-2ae2-4c2b-90b0-3af4417b6e78",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            885,
+            121.6
+          ],
+          "content": "r",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "b02807a1-78c1-42fd-a450-43f9638abafa": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "b02807a1-78c1-42fd-a450-43f9638abafa",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            900,
+            121.6
+          ],
+          "content": "e",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "830e875f-7d00-4bd0-86b1-f1ad21ee0fdc": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "830e875f-7d00-4bd0-86b1-f1ad21ee0fdc",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            915,
+            121.6
+          ],
+          "content": "a",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "792b8661-52bf-40c8-b5cb-a85a30138a27": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "792b8661-52bf-40c8-b5cb-a85a30138a27",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            930,
+            121.6
+          ],
+          "content": "1",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "3c4356ff-ee95-4ace-9372-e625ae931113": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "3c4356ff-ee95-4ace-9372-e625ae931113",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            945,
+            121.6
+          ],
+          "content": "1",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6539247b-a6a3-4a7b-ad5d-37b9bca16d5f": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "6539247b-a6a3-4a7b-ad5d-37b9bca16d5f",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            960,
+            121.6
+          ],
+          "content": "y",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d1796fc5-8c12-4766-8fb6-796a2d146802": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "d1796fc5-8c12-4766-8fb6-796a2d146802",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            975,
+            121.6
+          ],
+          "content": "_",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "e39b450d-8ff7-4f2f-9056-9aa1fd799787": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "e39b450d-8ff7-4f2f-9056-9aa1fd799787",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            990,
+            121.6
+          ],
+          "content": "d",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6a3ffc9e-b606-4c89-b6b8-0997a371a1ad": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "6a3ffc9e-b606-4c89-b6b8-0997a371a1ad",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1005,
+            121.6
+          ],
+          "content": "i",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "af4ae023-5b29-48c5-b4e5-dae5861d8beb": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "af4ae023-5b29-48c5-b4e5-dae5861d8beb",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1020,
+            121.6
+          ],
+          "content": "o",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6e9b93a9-ead3-4cc4-8f3a-c89833598f91": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "6e9b93a9-ead3-4cc4-8f3a-c89833598f91",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1035,
+            121.6
+          ],
+          "content": "n",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "60384481-0131-437b-b72e-ef7c53d52bdb": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "60384481-0131-437b-b72e-ef7c53d52bdb",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1050,
+            121.6
+          ],
+          "content": "t",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "b029534c-7500-4d83-a687-7918d9178ce2": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "b029534c-7500-4d83-a687-7918d9178ce2",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1065,
+            121.6
+          ],
+          "content": "_",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "71608404-eea3-420d-b34f-79530a42fc66": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "71608404-eea3-420d-b34f-79530a42fc66",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1080,
+            121.6
+          ],
+          "content": "k",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "76970b5b-2444-4a97-bc9e-8fc4cbcf8acc": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "76970b5b-2444-4a97-bc9e-8fc4cbcf8acc",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1095,
+            121.6
+          ],
+          "content": "n",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "2c629556-9743-4588-adff-6f18d61430e3": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "2c629556-9743-4588-adff-6f18d61430e3",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1110,
+            121.6
+          ],
+          "content": "0",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "67d45c5b-7d81-424e-be51-d6bf01196b2c": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "67d45c5b-7d81-424e-be51-d6bf01196b2c",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1125,
+            121.6
+          ],
+          "content": "w",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6ab73bec-080c-46e2-bd98-95e9c77506ff": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "6ab73bec-080c-46e2-bd98-95e9c77506ff",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1140,
+            121.6
+          ],
+          "content": "n",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "4b2acd21-233d-463a-99ce-053d1122f41c": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "4b2acd21-233d-463a-99ce-053d1122f41c",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            1155,
+            121.6
+          ],
+          "content": "}",
+          "strokeColor": [
+            0,
+            0,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 24,
+          "leading": 28.8
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "44e9d071-7058-47ee-8932-ef8d7eb58d88": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "44e9d071-7058-47ee-8932-ef8d7eb58d88",
+      "children": [],
+      "json": [
+        "PointText",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            750,
+            94.4
+          ],
+          "content": "chkcert22{Popiko, did you check that this is not the flag?}",
+          "fillColor": [
+            1,
+            1,
+            1
+          ],
+          "strokeColor": [
+            1,
+            1,
+            1
+          ],
+          "fontWeight": "400 normal",
+          "fontSize": 16,
+          "leading": 19.2
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "3dca21ee-1857-48d2-bf23-970593d2bb59": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "3dca21ee-1857-48d2-bf23-970593d2bb59",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 25,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 1
+    },
+    "2c6ce217-74af-40a5-b293-1eca4cb82d0d": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "2c6ce217-74af-40a5-b293-1eca4cb82d0d",
+      "children": [
+        "2928a36c-697d-43f3-b86b-538d73fdd8e5",
+        "f6502557-9e36-4002-9f85-efa7ef1d0135",
+        "d9d998fe-a1ea-4aa8-a1f4-621b28560cb8"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 26,
+      "end": 37,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 1
+    },
+    "24b78152-9286-41c7-b37c-daaf42a67101": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "24b78152-9286-41c7-b37c-daaf42a67101",
+      "children": [
+        "d8776ac1-632c-4383-bb6c-cf0270320abc"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 38,
+      "end": 38,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 1
+    },
+    "2928a36c-697d-43f3-b86b-538d73fdd8e5": {
+      "classname": "Tween",
+      "identifier": null,
+      "name": null,
+      "uuid": "2928a36c-697d-43f3-b86b-538d73fdd8e5",
+      "children": [],
+      "playheadPosition": 1,
+      "transformation": {
+        "x": 1644,
+        "y": 630,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "fullRotations": 0,
+      "easingType": "none",
+      "originalLayerIndex": 1
+    },
+    "f6502557-9e36-4002-9f85-efa7ef1d0135": {
+      "classname": "Tween",
+      "identifier": null,
+      "name": null,
+      "uuid": "f6502557-9e36-4002-9f85-efa7ef1d0135",
+      "children": [],
+      "playheadPosition": 12,
+      "transformation": {
+        "x": 164,
+        "y": 630,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "fullRotations": 0,
+      "easingType": "none",
+      "originalLayerIndex": 1
+    },
+    "d9d998fe-a1ea-4aa8-a1f4-621b28560cb8": {
+      "classname": "Clip",
+      "identifier": null,
+      "name": null,
+      "uuid": "d9d998fe-a1ea-4aa8-a1f4-621b28560cb8",
+      "children": [
+        "4986a86f-822f-41e4-86ba-2a90a6eebcd0"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 1509.4545454545455,
+        "y": 630,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "4986a86f-822f-41e4-86ba-2a90a6eebcd0": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "4986a86f-822f-41e4-86ba-2a90a6eebcd0",
+      "children": [
+        "ee0ed96f-ee8c-4682-9ff9-cecf7c2ca932"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "ee0ed96f-ee8c-4682-9ff9-cecf7c2ca932": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "Layer",
+      "uuid": "ee0ed96f-ee8c-4682-9ff9-cecf7c2ca932",
+      "children": [
+        "6ddaf6a9-9214-48a2-a413-532c94a06bad"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "6ddaf6a9-9214-48a2-a413-532c94a06bad": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "6ddaf6a9-9214-48a2-a413-532c94a06bad",
+      "children": [
+        "75791715-af1b-4922-9975-406b94b26d57",
+        "a1b33ba6-e662-42f2-82ad-e2df3c73ac33"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 1,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "75791715-af1b-4922-9975-406b94b26d57": {
+      "classname": "Clip",
+      "identifier": null,
+      "name": null,
+      "uuid": "75791715-af1b-4922-9975-406b94b26d57",
+      "children": [
+        "f0a35548-a28c-4b82-92cb-62dfe2246efa"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 0,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "a1b33ba6-e662-42f2-82ad-e2df3c73ac33": {
+      "classname": "Clip",
+      "identifier": null,
+      "name": null,
+      "uuid": "a1b33ba6-e662-42f2-82ad-e2df3c73ac33",
+      "children": [
+        "0bdaa653-205f-4895-9b38-8025e801d9e4"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 0,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "f0a35548-a28c-4b82-92cb-62dfe2246efa": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "f0a35548-a28c-4b82-92cb-62dfe2246efa",
+      "children": [
+        "fa46d248-8e10-4f1d-b71e-457fb8be5c29"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "fa46d248-8e10-4f1d-b71e-457fb8be5c29": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "Layer",
+      "uuid": "fa46d248-8e10-4f1d-b71e-457fb8be5c29",
+      "children": [
+        "4572f5df-deb0-48ad-be41-567d54f3de04"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "4572f5df-deb0-48ad-be41-567d54f3de04": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "4572f5df-deb0-48ad-be41-567d54f3de04",
+      "children": [
+        "3f1a898d-ba90-46a5-a078-8cd9a9c0e506"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 1,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "3f1a898d-ba90-46a5-a078-8cd9a9c0e506": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "3f1a898d-ba90-46a5-a078-8cd9a9c0e506",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "name": "3f1a898d-ba90-46a5-a078-8cd9a9c0e506",
+          "applyMatrix": false,
+          "matrix": [
+            0.25,
+            0,
+            0,
+            0.25,
+            0,
+            0
+          ],
+          "crossOrigin": "",
+          "source": "asset:d1c91b24-f463-4c2c-965e-ed4b7306f251"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "0bdaa653-205f-4895-9b38-8025e801d9e4": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "0bdaa653-205f-4895-9b38-8025e801d9e4",
+      "children": [
+        "6d435817-0e31-4380-a927-9018027b8394"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "6d435817-0e31-4380-a927-9018027b8394": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "Layer",
+      "uuid": "6d435817-0e31-4380-a927-9018027b8394",
+      "children": [
+        "1c9a8a77-9052-4090-b651-78bbd37e929b"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "1c9a8a77-9052-4090-b651-78bbd37e929b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "1c9a8a77-9052-4090-b651-78bbd37e929b",
+      "children": [
+        "2289d664-1d67-472b-8966-ee376b532511"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 1,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "2289d664-1d67-472b-8966-ee376b532511": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "2289d664-1d67-472b-8966-ee376b532511",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "name": "3f1a898d-ba90-46a5-a078-8cd9a9c0e506",
+          "applyMatrix": false,
+          "matrix": [
+            0.25,
+            0,
+            0,
+            0.25,
+            0,
+            0
+          ],
+          "crossOrigin": "",
+          "source": "asset:d1c91b24-f463-4c2c-965e-ed4b7306f251"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d8776ac1-632c-4383-bb6c-cf0270320abc": {
+      "classname": "Clip",
+      "identifier": null,
+      "name": null,
+      "uuid": "d8776ac1-632c-4383-bb6c-cf0270320abc",
+      "children": [
+        "23cca424-d30b-4a9e-aca1-f227ea819e04"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 164,
+        "y": 630,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "23cca424-d30b-4a9e-aca1-f227ea819e04": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "23cca424-d30b-4a9e-aca1-f227ea819e04",
+      "children": [
+        "68c0a925-e27a-4c51-af57-027186c7eeb7"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "68c0a925-e27a-4c51-af57-027186c7eeb7": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "Layer",
+      "uuid": "68c0a925-e27a-4c51-af57-027186c7eeb7",
+      "children": [
+        "1b2e8fda-1d3f-48af-9be8-ae527b8ef9a5"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "1b2e8fda-1d3f-48af-9be8-ae527b8ef9a5": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "1b2e8fda-1d3f-48af-9be8-ae527b8ef9a5",
+      "children": [
+        "a292ee16-355c-43c5-980b-b2dfa302eb0d"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 1,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "a292ee16-355c-43c5-980b-b2dfa302eb0d": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "a292ee16-355c-43c5-980b-b2dfa302eb0d",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "name": "3f1a898d-ba90-46a5-a078-8cd9a9c0e506",
+          "applyMatrix": false,
+          "matrix": [
+            0.25,
+            0,
+            0,
+            0.25,
+            0,
+            0
+          ],
+          "crossOrigin": "",
+          "source": "asset:d1c91b24-f463-4c2c-965e-ed4b7306f251"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6d880a9f-5d00-470f-9d5c-9c1da6b4f5ae": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "6d880a9f-5d00-470f-9d5c-9c1da6b4f5ae",
+      "children": [
+        "b5e45dc5-b0ef-4130-914e-5f09e79b594a"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": "this.r = 1;\nthis.n = 1;"
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 5,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "fcbbbab3-ab4c-4a99-ada4-732c7534fb78": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "fcbbbab3-ab4c-4a99-ada4-732c7534fb78",
+      "children": [
+        "a4b83e7a-18eb-4479-b7b6-9b291144aa68"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 6,
+      "end": 6,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "6c9d26a6-83c0-4c93-a100-74e0b32ea644": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "6c9d26a6-83c0-4c93-a100-74e0b32ea644",
+      "children": [
+        "4e7849c4-d397-4872-bd9c-4ef092c745ed"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 7,
+      "end": 7,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "5cd4f664-4aea-42e2-bf38-666440111e46": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "5cd4f664-4aea-42e2-bf38-666440111e46",
+      "children": [
+        "a90f6a51-94a3-43d3-921b-bb7c6a1af8b1"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 8,
+      "end": 8,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "87f56581-1366-4bf4-a7e9-935baef3688e": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "87f56581-1366-4bf4-a7e9-935baef3688e",
+      "children": [
+        "7c4cb4a3-4090-4278-96ef-427dc8640088"
+      ],
+      "scripts": [],
+      "cursor": "default",
+      "start": 9,
+      "end": 9,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "2b9b947e-b2f9-4846-991c-32280c61b28b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "2b9b947e-b2f9-4846-991c-32280c61b28b",
+      "children": [
+        "6efb2c74-6758-4d07-a603-6a3c369f420c"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 10,
+      "end": 10,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "5405e5cf-8551-4379-8469-255475e7b0fe": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "5405e5cf-8551-4379-8469-255475e7b0fe",
+      "children": [
+        "458712d7-1bc6-4c6b-93c5-9a491329f2af"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 11,
+      "end": 11,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "df0ec594-40a1-454e-86b3-4fc6b75ddff2": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "df0ec594-40a1-454e-86b3-4fc6b75ddff2",
+      "children": [
+        "1aa85569-684a-4c58-b6ac-1d657203cf5f"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 12,
+      "end": 12,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "177d6efd-5cf1-4e29-b583-4c77ca7e79f3": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "177d6efd-5cf1-4e29-b583-4c77ca7e79f3",
+      "children": [
+        "74abcfc1-782a-499c-89e6-6472931fb491"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": "this.n++;\nif(this.n<=Math.pow(2,this.r)){\n    gotoAndPlay(10);\n}"
+        }
+      ],
+      "cursor": "default",
+      "start": 13,
+      "end": 13,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "45d963c8-45ea-481b-b9ee-8ea02bc55658": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "45d963c8-45ea-481b-b9ee-8ea02bc55658",
+      "children": [
+        "73845439-9b9c-4d4b-a9c8-250f46917e27"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 14,
+      "end": 14,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "c2c2fb2b-9c73-476a-a68d-b275eebb687b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "c2c2fb2b-9c73-476a-a68d-b275eebb687b",
+      "children": [
+        "afc2a426-e86c-4428-86d9-d962f936f31a"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 15,
+      "end": 15,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "937ad9e3-eb50-42bd-8d30-62284dc7b90b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "937ad9e3-eb50-42bd-8d30-62284dc7b90b",
+      "children": [
+        "3c64f4a6-fc96-4d5d-82e4-8878eb209022"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 16,
+      "end": 16,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "f878315d-3dd0-4c57-935b-9a995f454a2a": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "f878315d-3dd0-4c57-935b-9a995f454a2a",
+      "children": [
+        "d32d109d-2f54-4e88-932e-64736500c485"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 17,
+      "end": 17,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "dd4647d4-9cc1-46b3-8c59-32e17e02511e": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "dd4647d4-9cc1-46b3-8c59-32e17e02511e",
+      "children": [
+        "d602dc92-3480-43ff-bff2-0f416a622f8d"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 18,
+      "end": 18,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "69bb6443-464c-4d4e-8f15-dd799919b92c": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "69bb6443-464c-4d4e-8f15-dd799919b92c",
+      "children": [
+        "cf7f1e4a-77f0-4006-8ed4-03cf25b90a96"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 19,
+      "end": 19,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "8cbfd9b1-f2b7-4284-bdff-e721941d9792": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "8cbfd9b1-f2b7-4284-bdff-e721941d9792",
+      "children": [
+        "9cf0514b-e05b-4edd-8a79-b1067929da32"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 20,
+      "end": 20,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "e18b8120-9d7a-47df-80fd-e51278adb8ce": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "e18b8120-9d7a-47df-80fd-e51278adb8ce",
+      "children": [
+        "19aac69f-33c4-46fa-9614-e2f2fb633630"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 21,
+      "end": 21,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "53b8814d-33a3-4071-bad4-fd99cba0d362": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "53b8814d-33a3-4071-bad4-fd99cba0d362",
+      "children": [
+        "534f3354-140e-4993-9d51-26befbf3e167"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 22,
+      "end": 22,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "1711fcc9-43b4-4a78-a67c-aaa79729d69b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "1711fcc9-43b4-4a78-a67c-aaa79729d69b",
+      "children": [
+        "743b55f9-8371-474b-8d7b-974685cf7679"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 23,
+      "end": 23,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "fe914114-e2b4-4a98-89fb-100e316bccf1": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "fe914114-e2b4-4a98-89fb-100e316bccf1",
+      "children": [
+        "9bbbbc82-1a23-4562-b49a-192aad064498"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 24,
+      "end": 24,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "91efec0e-a004-44cf-992d-ad7334212897": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "91efec0e-a004-44cf-992d-ad7334212897",
+      "children": [
+        "2aae6c10-5bf2-4861-8c9e-e4ba20563a85"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": "if(this.r < 4){\n    this.r++;\n    this.n=1;\n    gotoAndPlay(10);\n}"
+        }
+      ],
+      "cursor": "default",
+      "start": 25,
+      "end": 25,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "7e10485e-636b-4c60-91ba-a3e37f3a1d2d": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "7e10485e-636b-4c60-91ba-a3e37f3a1d2d",
+      "children": [
+        "d4f70d2d-e31f-4ba5-b28c-e90c84b54579",
+        "25ac88b9-1ef9-4e1c-bc63-6cb3a5cc74e0",
+        "5e232e5e-bd57-43fc-8632-aff7bad7ccdf"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 26,
+      "end": 37,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "593fc602-a8cb-4e2c-8806-26e473a1a31b": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "593fc602-a8cb-4e2c-8806-26e473a1a31b",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": "stop();"
+        }
+      ],
+      "cursor": "default",
+      "start": 38,
+      "end": 38,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "4eeb75b2-9100-441a-a955-0ee6f6ddcd8a": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "4eeb75b2-9100-441a-a955-0ee6f6ddcd8a",
+      "children": [
+        "fd4e483a-af8b-40b6-a9cb-e8df21420914"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 39,
+      "end": 39,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "ebf91c99-e78f-4438-82a5-73824dd6aec1": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "ebf91c99-e78f-4438-82a5-73824dd6aec1",
+      "children": [
+        "617ca78f-06ec-447b-9273-3a905e037525"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 40,
+      "end": 99,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "1649ea75-2665-4c55-950f-ca62e378f2fc": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "1649ea75-2665-4c55-950f-ca62e378f2fc",
+      "children": [
+        "5199953d-6815-487b-9dee-99cdc2c534da"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": "stop();"
+        }
+      ],
+      "cursor": "default",
+      "start": 100,
+      "end": 100,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 2
+    },
+    "b5e45dc5-b0ef-4130-914e-5f09e79b594a": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "b5e45dc5-b0ef-4130-914e-5f09e79b594a",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:c2c19fad-ab0b-4ee1-810b-2ccd8ee5d0b0"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "a4b83e7a-18eb-4479-b7b6-9b291144aa68": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "a4b83e7a-18eb-4479-b7b6-9b291144aa68",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:baf7e4f2-e87c-4f79-a42c-ab558d3e8877"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "4e7849c4-d397-4872-bd9c-4ef092c745ed": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "4e7849c4-d397-4872-bd9c-4ef092c745ed",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:e9fc1d97-b163-4408-9ce5-8e93bdb5a6d4"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "a90f6a51-94a3-43d3-921b-bb7c6a1af8b1": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "a90f6a51-94a3-43d3-921b-bb7c6a1af8b1",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:de1fdfb3-32dd-4992-872d-25bfb85f4aff"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "7c4cb4a3-4090-4278-96ef-427dc8640088": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "7c4cb4a3-4090-4278-96ef-427dc8640088",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:34343d38-03bc-4234-8846-72e2bdfa299b"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "6efb2c74-6758-4d07-a603-6a3c369f420c": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "6efb2c74-6758-4d07-a603-6a3c369f420c",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:b981c6fb-9251-4905-88ad-989390e72f2b"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "458712d7-1bc6-4c6b-93c5-9a491329f2af": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "458712d7-1bc6-4c6b-93c5-9a491329f2af",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:09e903a0-0e3f-4959-b2dc-1985a4978be3"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "1aa85569-684a-4c58-b6ac-1d657203cf5f": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "1aa85569-684a-4c58-b6ac-1d657203cf5f",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:35155d83-1763-4bd2-a803-3061294b7b39"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "74abcfc1-782a-499c-89e6-6472931fb491": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "74abcfc1-782a-499c-89e6-6472931fb491",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:f767d7d4-dcd7-465b-9294-54d8180f7fe4"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "73845439-9b9c-4d4b-a9c8-250f46917e27": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "73845439-9b9c-4d4b-a9c8-250f46917e27",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:8a817e8e-9c9c-40f6-a490-91066be9551a"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "afc2a426-e86c-4428-86d9-d962f936f31a": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "afc2a426-e86c-4428-86d9-d962f936f31a",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:70c76619-915b-41b9-87c2-900bb44dc2b3"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "3c64f4a6-fc96-4d5d-82e4-8878eb209022": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "3c64f4a6-fc96-4d5d-82e4-8878eb209022",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:f8c0f629-5c88-4c56-9c6b-8572b360ec2b"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d32d109d-2f54-4e88-932e-64736500c485": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "d32d109d-2f54-4e88-932e-64736500c485",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:c337b2e6-a462-4585-ba4b-b1e9522ea1f2"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d602dc92-3480-43ff-bff2-0f416a622f8d": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "d602dc92-3480-43ff-bff2-0f416a622f8d",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:df3c3058-2d2a-4865-a40d-93bb2874994f"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "cf7f1e4a-77f0-4006-8ed4-03cf25b90a96": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "cf7f1e4a-77f0-4006-8ed4-03cf25b90a96",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:d3c238a3-508c-4102-9623-797c26ef8a8e"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "9cf0514b-e05b-4edd-8a79-b1067929da32": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "9cf0514b-e05b-4edd-8a79-b1067929da32",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:5ba106b8-672f-4896-9579-38bde704d427"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "19aac69f-33c4-46fa-9614-e2f2fb633630": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "19aac69f-33c4-46fa-9614-e2f2fb633630",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:8e4d6683-27bd-4808-88b8-373575cfd57a"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "534f3354-140e-4993-9d51-26befbf3e167": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "534f3354-140e-4993-9d51-26befbf3e167",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:af8eaaba-965f-41aa-b1bd-5347c45278ff"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "743b55f9-8371-474b-8d7b-974685cf7679": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "743b55f9-8371-474b-8d7b-974685cf7679",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:115f7863-20f7-4c7f-9ac6-d3a71aaba537"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "9bbbbc82-1a23-4562-b49a-192aad064498": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "9bbbbc82-1a23-4562-b49a-192aad064498",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:150b3964-b751-47b5-8de8-c9aa5fb18d9f"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "2aae6c10-5bf2-4861-8c9e-e4ba20563a85": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "2aae6c10-5bf2-4861-8c9e-e4ba20563a85",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:150b3964-b751-47b5-8de8-c9aa5fb18d9f"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d4f70d2d-e31f-4ba5-b28c-e90c84b54579": {
+      "classname": "Tween",
+      "identifier": null,
+      "name": null,
+      "uuid": "d4f70d2d-e31f-4ba5-b28c-e90c84b54579",
+      "children": [],
+      "playheadPosition": 1,
+      "transformation": {
+        "x": 640.373505,
+        "y": 360.00000000000006,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 1
+      },
+      "fullRotations": 0,
+      "easingType": "none",
+      "originalLayerIndex": 2
+    },
+    "25ac88b9-1ef9-4e1c-bc63-6cb3a5cc74e0": {
+      "classname": "Tween",
+      "identifier": null,
+      "name": null,
+      "uuid": "25ac88b9-1ef9-4e1c-bc63-6cb3a5cc74e0",
+      "children": [],
+      "playheadPosition": 12,
+      "transformation": {
+        "x": 640.373505,
+        "y": 360.00000000000006,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 0
+      },
+      "fullRotations": 0,
+      "easingType": "none",
+      "originalLayerIndex": 2
+    },
+    "5e232e5e-bd57-43fc-8632-aff7bad7ccdf": {
+      "classname": "Clip",
+      "identifier": null,
+      "name": null,
+      "uuid": "5e232e5e-bd57-43fc-8632-aff7bad7ccdf",
+      "children": [
+        "dd463b58-85e1-4fc2-b3df-79577af0bda5"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "transformation": {
+        "x": 640.373505,
+        "y": 360.00000000000006,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "opacity": 0.9090909090909091
+      },
+      "animationType": "loop",
+      "singleFrameNumber": 1,
+      "assetSourceUUID": null,
+      "isSynced": false
+    },
+    "dd463b58-85e1-4fc2-b3df-79577af0bda5": {
+      "classname": "Timeline",
+      "identifier": null,
+      "name": null,
+      "uuid": "dd463b58-85e1-4fc2-b3df-79577af0bda5",
+      "children": [
+        "cd4f17d9-df3e-4235-b6fe-18a250449021"
+      ],
+      "playheadPosition": 1,
+      "activeLayerIndex": 0
+    },
+    "cd4f17d9-df3e-4235-b6fe-18a250449021": {
+      "classname": "Layer",
+      "identifier": null,
+      "name": "Layer",
+      "uuid": "cd4f17d9-df3e-4235-b6fe-18a250449021",
+      "children": [
+        "948927bd-8d24-4f9d-99b6-2ce398c07daf"
+      ],
+      "locked": false,
+      "hidden": false
+    },
+    "948927bd-8d24-4f9d-99b6-2ce398c07daf": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "948927bd-8d24-4f9d-99b6-2ce398c07daf",
+      "children": [
+        "fa28e080-f3b9-4d57-967e-024388bd3cdc"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 1,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 0
+    },
+    "fa28e080-f3b9-4d57-967e-024388bd3cdc": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "fa28e080-f3b9-4d57-967e-024388bd3cdc",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "crossOrigin": "",
+          "source": "asset:150b3964-b751-47b5-8de8-c9aa5fb18d9f"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "fd4e483a-af8b-40b6-a9cb-e8df21420914": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "fd4e483a-af8b-40b6-a9cb-e8df21420914",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:b981c6fb-9251-4905-88ad-989390e72f2b"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "617ca78f-06ec-447b-9273-3a905e037525": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "617ca78f-06ec-447b-9273-3a905e037525",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:09e903a0-0e3f-4959-b2dc-1985a4978be3"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "5199953d-6815-487b-9dee-99cdc2c534da": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "5199953d-6815-487b-9dee-99cdc2c534da",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:e9fc1d97-b163-4408-9ce5-8e93bdb5a6d4"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "910e4a31-b1dc-41a6-b465-361089b96212": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "910e4a31-b1dc-41a6-b465-361089b96212",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 25,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 3
+    },
+    "cad1bdf0-0f35-4164-b1a3-ccf182ff19a8": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "cad1bdf0-0f35-4164-b1a3-ccf182ff19a8",
+      "children": [
+        "494efc4e-96a9-4fdd-b83f-f6ce843647b8"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 26,
+      "end": 37,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 3
+    },
+    "0235c936-38c8-4355-8568-2b7daf9b419c": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "0235c936-38c8-4355-8568-2b7daf9b419c",
+      "children": [
+        "d6335629-143c-471e-b57d-2ed2c369df0d"
+      ],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 38,
+      "end": 38,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 3
+    },
+    "494efc4e-96a9-4fdd-b83f-f6ce843647b8": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "494efc4e-96a9-4fdd-b83f-f6ce843647b8",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "name": "494efc4e-96a9-4fdd-b83f-f6ce843647b8",
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:b5aed93e-0ecf-4e02-b3f7-12e3a084ff0c"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "d6335629-143c-471e-b57d-2ed2c369df0d": {
+      "classname": "Path",
+      "identifier": null,
+      "name": null,
+      "uuid": "d6335629-143c-471e-b57d-2ed2c369df0d",
+      "children": [],
+      "json": [
+        "Raster",
+        {
+          "applyMatrix": false,
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            640,
+            360
+          ],
+          "crossOrigin": "",
+          "source": "asset:b5aed93e-0ecf-4e02-b3f7-12e3a084ff0c"
+        }
+      ],
+      "fontStyle": "normal",
+      "fontWeight": 400
+    },
+    "67653da1-eb8b-4bf7-9693-7d2e836f8778": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "67653da1-eb8b-4bf7-9693-7d2e836f8778",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 1,
+      "end": 9,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 4
+    },
+    "53e07f60-58ee-44f0-9da2-aabef6ed7226": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "53e07f60-58ee-44f0-9da2-aabef6ed7226",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 10,
+      "end": 13,
+      "sound": "01e66b40-a1b1-4fb0-bb20-57a22840d4e9",
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 600,
+      "originalLayerIndex": 4
+    },
+    "10893282-5008-4ff1-82f4-e04962ff3010": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "10893282-5008-4ff1-82f4-e04962ff3010",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 14,
+      "end": 25,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 4
+    },
+    "a9f31bd1-dbfd-4a55-956b-6b8b1c0997ea": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "a9f31bd1-dbfd-4a55-956b-6b8b1c0997ea",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 26,
+      "end": 38,
+      "sound": "edda1a71-5e96-489a-9908-baa2f31ac4c7",
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 4
+    },
+    "ba0b978f-5209-49a3-a7b9-1e666865fbfc": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "ba0b978f-5209-49a3-a7b9-1e666865fbfc",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 39,
+      "end": 39,
+      "sound": null,
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 4
+    },
+    "94b9fed1-0a11-4cb0-a0a2-890e2a948071": {
+      "classname": "Frame",
+      "identifier": null,
+      "name": null,
+      "uuid": "94b9fed1-0a11-4cb0-a0a2-890e2a948071",
+      "children": [],
+      "scripts": [
+        {
+          "name": "default",
+          "src": ""
+        }
+      ],
+      "cursor": "default",
+      "start": 40,
+      "end": 99,
+      "sound": "01e66b40-a1b1-4fb0-bb20-57a22840d4e9",
+      "soundVolume": 1,
+      "soundLoop": false,
+      "soundStart": 0,
+      "originalLayerIndex": 4
+    }
+  }
+}
