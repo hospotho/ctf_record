@@ -1,4 +1,4 @@
-## Some writeups for hkcert CTF 2022
+## Some writeup for hkcert CTF 2022
 
 Official - 欣榮商場
 
