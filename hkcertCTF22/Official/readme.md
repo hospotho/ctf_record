@@ -2,7 +2,7 @@
 
 AES-256-GCM is a stream cipher, if the key (initialization vector) is fixed, then the encryption stream will be the same.
 
-From the code comment, two messages were encrypted using same key. The encryption stream will be the same for two ciphers.
+From the code comment, two messages were encrypted using same key. The encryption stream should be the same for two ciphers.
 
 ```
 msg1 xor stream = c1
@@ -26,7 +26,7 @@ stream =
 7cc0c07edda85e0daea1f1fc45c37e18bff902957b8e6b2f7dfefe069f5a6e3fe72841ea5068448c8cc8cf922e2370913863a9d906
 ```
 
-As we have the encryption stream, we can xor c2 and encryption stream to recover the flag.
+Now we have the encryption stream, we can xor c2 and encryption stream to recover the flag.
 
 ```
 stream[:-8] =

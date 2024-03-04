@@ -9,7 +9,7 @@ var zip = new JSZip();
 })
 ```
 
-After extract the zip file. Searching "hkcert22" or "flag" in `project.json` will lead us to object "44e9d071-7058-47ee-8932-ef8d7eb58d88". This is the hint that text maybe be hidden in other other Path object under json.content
+After extract the zip file. Searching "hkcert22" or "flag" in `project.json` will lead us to object "44e9d071-7058-47ee-8932-ef8d7eb58d88". This is the hint that flag maybe be hidden in other Path object under json.content
 
 By searching "content", we can find the flag is spilt into characters and the first character "h" hidden in object "bc751a38-2563-4510-af92-355ba54e1bf5". And the second character "k" is hidden in next object and so on.
 
